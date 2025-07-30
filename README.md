@@ -1,24 +1,4 @@
-# My_Calculator
-# 🐍 Intro to Python Assignment – Basic Calculator
-
-## 📌 Overview
-This project is part of the **Intro to Python Assignment**. The goal is to practice Python fundamentals by building a simple **basic calculator program** that uses user input, arithmetic operations, and conditional statements.
-
----
-
-## 🎯 Objective
-- Practice creating Python programs to perform arithmetic and string operations.  
-- Experiment with variables and data types.  
-- Use `if/elif/else` statements for decision-making.  
-
----
-
-## 📝 Instructions
-The program should:  
-1. Ask the user to input **two numbers**.  
-2. Ask the user to input a mathematical operation: `+`, `-`, `*`, or `/`.  
-3. Perform the calculation based on the input.  
-4. Display the result in a clear format.  
+# calculator.py
 ## 💻 Code Example
 ```python
 # Basic Calculator Program
